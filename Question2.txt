@@ -1,0 +1,15 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Question 2
+
+x=3
+y=5
+3
+1
+
+a the value of y after the switch statement if x = 3 and y = 5 is 1
+b the value of y if x = 2 and y = 5 at the beginning is 1
+>>> 
